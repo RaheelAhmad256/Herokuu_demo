@@ -95,6 +95,7 @@ typing_extensions==4.7.1
 tzdata==2023.3
 uri-template==1.2.0
 uvicorn==0.22.0
+gunicorn
 virtualenv==20.23.1
 wcwidth==0.2.6
 webcolors==1.13
